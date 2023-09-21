@@ -13,7 +13,10 @@ I hope my technical writing portfolio gives you an insight into my tech writing 
 
 | Document Type       | Details   | Link |
 | :---------------- | :------: | -
-| Instalation Guide   |   True   | 
+| Administration Guide   | |Oracle Identity Governance overview includes understanding the purpose and major features
+of the product, the different modes in which it can be deployed, and its interaction with other
+products, IT systems, and users.
+This chapter describes the purpose ||  True   | 
 |Admin Guide       |   True   | 
 | Training and Tutorials    |  False   | 
 | Codecademy Hoodie   |  False   | 
