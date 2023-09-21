@@ -19,4 +19,5 @@ I hope my technical writing portfolio gives you an insight into my tech writing 
 | REST API Doc          | Link to the Doc |  
 | :---------------- | :------: | 
 | System Property REST API  | [REST API](https://docs.oracle.com/en/middleware/idm/identity-governance/12.2.1.4/oigsp/index.html)|
-| Scheduler | [REST API](https://docs.oracle.com/en/middleware/idm/identity-governance/12.2.1.4/oigcp/index.html)|
+| Scheduler | [REST API](https://docs.oracle.com/en/middleware/idm/identity-governance/12.2.1.4/oigsc/index.html)|
+| Manage Notification | [REST API](https://docs.oracle.com/en/middleware/idm/identity-governance/12.2.1.4/oigmn/index.html)|
