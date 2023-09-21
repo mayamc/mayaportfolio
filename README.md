@@ -15,10 +15,6 @@ I hope my technical writing portfolio gives you an insight into my tech writing 
 
 
 
-| Item              | In Stock | Price |
+| REST API             | LINK |  |
 | :---------------- | :------: | ----: |
-| Python Hat        |   True   | 23.99 |
-| SQL Hat           |   True   | 23.99 |
-| Codecademy Tee    |  False   | 19.99 |
-| Codecademy Hoodie |  False   | 42.99 |
 | System Property REST API  | [REST API](https://docs.oracle.com/en/middleware/idm/identity-governance/12.2.1.4/oigsp/index.html)|
