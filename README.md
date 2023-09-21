@@ -11,9 +11,14 @@ I hope my technical writing portfolio gives you an insight into my tech writing 
 
 ## Document Types
 
-| Document Type       | Details   | Link |
-| :---------------- | :------: | -
-| Administration Guide | This guide provides details on understanding Oracle Identity Governance along with its functions and architecture, and introduce yourself to the Identity System Administration interface.|
- | [ Administering Oracle Identity Governance ] (https://docs.oracle.com/en/middleware/idm/identity-governance/12.2.1.4/omadm/index.html) |  
-| Training and Tutorials    |  False   | 
-| Codecademy Hoodie   |  False   | 
+- Administeration Guide - [Administering Oracle Identity Governance](https://docs.oracle.com/en/middleware/idm/identity-governance/12.2.1.4/omadm/index.html)
+
+
+
+| Item              | In Stock | Price |
+| :---------------- | :------: | ----: |
+| Python Hat        |   True   | 23.99 |
+| SQL Hat           |   True   | 23.99 |
+| Codecademy Tee    |  False   | 19.99 |
+| Codecademy Hoodie |  False   | 42.99 |
+| System Property REST API  | [REST API](https://docs.oracle.com/en/middleware/idm/identity-governance/12.2.1.4/oigsp/index.html)|
