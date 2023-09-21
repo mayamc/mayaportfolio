@@ -41,8 +41,8 @@ Oracle by Example (OBE) tutorials provide hands-on, step-by-step instructions on
 - Conceptualize, define, schedule, and manage projects through delivery
 - Work in Markdown, HTML, CSS, JSON, XML/DITA, structured authoring environments
 - Version control and collaboration tools; Confluence, JIRA, GitHub/Git, SharePoint, Subversion
-- Open tools; Swagger, OpenAPI, Postman, cURL, Atom
-- Enterprise tools; Flare, Dreamweaver, Snagit, Photoshop, FrameMaker, Articulate, MS Office
+- Open tools: Guthub, Swagger, OpenAPI, Postman, cURL, Atom
+- Enterprise tools: Adobe Dreamweaver, Snagit, Photoshop, FrameMaker, Articulate, MS Office, Oxygen
 - Adhere to a style guide, familiar with Microsoft Manual of Style for Technical Publications
 
 ## Education
