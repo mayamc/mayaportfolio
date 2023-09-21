@@ -28,3 +28,5 @@ I hope my technical writing portfolio gives you an insight into my tech writing 
 | :---------------- | :------: | 
 | Create a Compute Instance | [Tutorial Link](https://docs.oracle.com/en-us/iaas/developer-tutorials/tutorials/tf-compute/01-summary.htm) |
 | Launching Your First Linux Instance | [Tutorial Link](https://docs.oracle.com/en-us/iaas/Content/GSG/Reference/overviewworkflow.htm#Tutorial__Launching_Your_First_Linux_Instance) |
+
+- Instlation Guide - [Sample Instalation Guide](https://github.com/mayamc/mayaportfolio/blob/main/SampleInstallationGuide.docx)
