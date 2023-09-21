@@ -1,0 +1,134 @@
+
+Office Communicator 2007 Client 
+Installation Guide 
+
+ 
+Table of Contents
+1	INTRODUCTION	2
+1.1	OVERVIEW	2
+1.2	PURPOSE	2
+1.3	AUDIENCE	2
+2	PLANNING	3
+2.1	REQUIREMENTS	3
+2.1.1	HARDWARE AND SOFTWARE	3
+2.1.2	AUDIO/VIDEO	3
+2.1.2.1	AUDIO	3
+2.1.2.2	VIDEO	4
+3	MICROSOFT OFFICE COMMUNICATOR 2007 CLIENT INSTALL	4
+3.1	INSTALLING THE MICROSOFT OFFICE COMMUNICATOR 2007 CLIENT	4
+3.1.1	COPY THE INSTALLATION FILES	4
+3.1.2	MICROSOFT OFFICE COMMUNICATOR 2007 CLIENT INSTALLATION	4
+3.2	CUSTOMIZING THE IMWARNING MESSAGE	5
+3.3	POST INSTALLATION TASK	5
+3.3.1	VERIFYING THE INSTALLATION OF MICROSOFT OFFICE COMMUNICATOR 2007 CLIENT	6
+3.3.2	VERIFYING IMWARING TEXT	6
+3.3.3	MAKING SURE THAT THE ALLOW MICROSOFT TO COLLECT INFORMATION ABOUT HOW I USE COMMUNICATOR IS NOT CHECKED	6
+4	UNINSTALLING MICROSOFT OFFICE COMMUNICATOR 2007 CLIENT	8
+4.1	TO UNINSTALL COMMUNICATOR 2007 MUI	8
+4.2	TO UNINSTALL COMMUNICATOR 2007	9
+
+1	INTRODUCTION
+1.1	Overview
+Microsoft Office Communicator 2007 is the application for real-time (synchronous) communications. It is an end user tool that integrates presence and directory information, instant messaging, telephony and audio-video conferencing. It helps users control incoming communications with alerts, automatic call forwarding and the ability to manually set their presence. It works across your PC, mobile phone or web browser.
+Microsoft Office Communicator 2007 also integrates the entire communications experience into the Microsoft Office system and beyond. Presence information appears wherever a contact name appears: in a document workspace, on a Microsoft Office SharePoint Server site, or in an e-mail string. With Microsoft Office Communicator Mobile 2007, users can have tools like presence and click-to-call on their Windows Mobile-powered devices.
+1.2	Purpose
+This document describes the procedures and steps necessary to successfully install and configure the Microsoft Office Communicator 2007 client on the client machines running on Windows Vista (32-bit RTM), Windows XP Professional with SP2 or Windows 2000 Professional with SP4 (requires Microsoft Windows Media technologies player – version 9 and Microsoft Windows Installer – version 3.0 or later). There are many different automatic ways to install the Microsoft Office Communicator Client is using Microsoft SMS, Active Directory Group Policy, Windows Logon Scripts, etc.
+1.3	Audience 
+This guide is intended for the end users who want to install the Microsoft Office Communicator 2007 client manually on their computer.
+ 
+2	Planning 
+Before installing the Microsoft Office communicator 2007 client, a number of perquisites must be met and are described in the following sections.
+2.1	Requirements
+2.1.1	Hardware and Software
+The table below defines the hardware and software requirements for Communicator 2007.
+System Component	Minimum Requirement
+Operating System	Windows Vista™ 32-bit (RTM) operating system 
+Microsoft® Windows® XP Professional with Service Pack 2
+Windows 2000 Professional with Service Pack 4 (requires Microsoft® Windows Media® technologies player, version 9, and  Microsoft® Windows® Installer, version 3.0 or later)
+Computer/Processor	Data and Voice: 500-megahertz (MHz) or higher processor, Intel Pentium-compatible  
+For video: 1 GHz or higher
+For Microsoft® Office RoundTable™ communications and archival system: 1.8 GHz or higher
+Memory	512 megabytes (MB) of RAM 
+Install Space	1.5 MB
+Security	Administrator privileges, or, in Windows Vista® Standard User Mode, administrator credentials. 
+Other Requirements	Microsoft® Office Outlook® 2007 and Microsoft® Exchange Server 2007 are required for Outlook integration options.
+2.1.2	Audio/Video
+Office Communicator 2007 supports a variety of hardware devices for audio/video communications, as described in the following sections.
+2.1.2.1	Audio
+To make and receive phone calls with Office communicator, you must have one of the following:
+•	A headset or other universal serial bus (USB) audio device, or speakers and a microphone.
+•	A half-duplex or full-duplex sound card. Half-duplex audio allows only one person to speak at a time. Full-duplex audio allows two people to speak simultaneously.
+2.1.2.2	Video
+•	To make video calls, you must have a webcam connected to your computer. Note that you can receive video calls without a webcam and view the caller’s video stream.
+3	Microsoft Office Communicator 2007 Client Install
+3.1	Installing the Microsoft Office Communicator 2007 Client
+This section defines steps necessary to install the Microsoft Office Communicator 2007 client.
+3.1.1	Copy the Installation files
+Perform the following steps to copy Manual Client Install directory from GD1 share.
+1.	Create a directory in the C drive.
+2.	Launch Internet Explorer and open the link to download the executable files.
+3.	Copy the Client Install file and all its contents to C:\ on the computer where the Office Communicator 2007 Client to be installed.
+3.1.2	Microsoft Office Communicator 2007 Client Installation
+1.	Exit any Microsoft Office programs that are currently running.
+2.	On the taskbar, click Start, and then Click Run.
+3.	In the Run dialog box, click Browse, locate the communicator.msi file on your computer.
+4.	Change the Files of type to All Files instead of Programs and select the communicator.msi file.
+5.	In the Run dialog box, click OK.
+6.	In the Microsoft Office Communicator 2007 Setup window, click Next.
+7.	Review the license agreement. If you agree with the terms, select the I accept the terms in the License Agreement check box and then click Next.
+8.	On the Configure Microsoft Office Communicator page, either accept the default location or select an alternative location for the product files to be installed as shown below. We recommend that you accept the default location.
+
+
+
+9.	Click Next to begin the installation process.
+10.	When the installation is complete, you will see a check mark Show online release notes for Microsoft Office Communicator 2007. If you want to see online release notes, select it and then click Finish.
+3.2	Customizing the IMWarning Message
+This section defines the steps necessary to customize the IMWarning message.
+1.	On the taskbar, click Start, and then Click Run.
+2.	In the Run dialog box, click Browse, locate the IMWarning Registry.reg file in IMWarning Registry Key directory. Change the Files of type to All Files instead of Programs.
+3.	In the Run dialog box, click OK.
+4.	It will open a new window as below.
+
+ 
+
+5.	Click Yes.
+6.	It will display a message as below.
+
+ 
+
+7.	Click OK to add the IMWarning registry key to HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Communicator with the text “Users of this service must abide by Xerox corporate policies and usage must be for business purposes only. Only non-classified Xerox information may be transmitted using this service. Service usage monitoring for policy enforcement purposes may occur.”
+3.3	Post Installation Task
+This section defines the post installation tasks such as verify whether Communicator is installed correctly and is working or not, customize IMWarning message, etc.
+3.3.1	Verifying the Installation of Microsoft Office Communicator 2007 Client
+The following steps describe how to verify the successful installation of the Office Communicator.
+1.	On the Desktop, right click on the My Computer icon.
+2.	Expand Event Viewer.
+3.	Click on Application Log.
+4.	In the right pane, check for the event ID 11707 with source MsiInstaller, which clearly indicates that the Installation of the Microsoft Office Communicator completed successfully as shown below.
+
+3.3.2	Verifying IMWaring text
+The following steps validates that the IMWarning message set in the earlier section is working properly.
+1.	After login into the Communicator, the warning displays in the upper portion of the conversation window when a conversation is initiated as shown below.
+
+3.3.3	Making sure that the Allow Microsoft to collect information about how I use Communicator is not checked
+This section defines steps to make sure that the Allow Microsoft to collect information about how I use Communicator is un-checked.
+1.	Click Start, point to All Programs and then click Microsoft Office Communicator 2007.
+2.	In the Office Communicator Title bar, click the Menu button ( ) and then on the Tools menu click Options.
+3.	Click on General tab.
+4.	In this General tab, under the Quality section, check Allow Microsoft to collect information about how I use Communicator as below.
+ 
+
+5.	Now again un-check the Allow Microsoft to collect information about how I use Communicator, which will make sure that the check box is un-checked as below.
+ 
+4	Uninstalling Microsoft Office Communicator 2007 client
+This section defines procedure to uninstall Communicator 2007. Before removing, Microsoft Office Communicator Client it is recommended to remove the Microsoft Office Communicator 2007, MUI.
+4.1	To uninstall Communicator 2007 MUI
+1.	Click Start button, click Control Panel and then click Add and Remove Programs.
+2.	Select Microsoft Office Communicator 2007.
+3.	Click Remove and click on Yes.
+4.2	To uninstall Communicator 2007
+1.	Click Start button, click Control Panel and then click Add and Remove Programs.
+2.	Select Microsoft Office Communicator 2007.
+3.	Click Remove and click Yes.
+4.	Restart the computer.
+
