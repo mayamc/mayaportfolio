@@ -1,5 +1,5 @@
-## Maya Chakrapani 
-# About 
+# Maya Chakrapani 
+## About 
 
 I'm an experienced technical writer, traning content creator, team leader, and user experience professional. I am a passionate advocate for users and for the design, development, and delivery of quality technical content.
 
@@ -9,14 +9,11 @@ My writing samples include a process document, an installation guide, and a how-
 
 I hope my technical writing portfolio gives you an insight into my tech writing skills. Please check my online CV or LinkedIn profile to learn more about my qualifications.
 
-# Document Types
+## Document Types
 
 | Document Type       | Details   | Link |
 | :---------------- | :------: | -
-| Administration Guide   | |Oracle Identity Governance overview includes understanding the purpose and major features
-of the product, the different modes in which it can be deployed, and its interaction with other
-products, IT systems, and users.
-This chapter describes the purpose ||  True   | 
-|Admin Guide       |   True   | 
+| Administration Guide | This guide provides details on understanding Oracle Identity Governance along with its functions and architecture, and introduce yourself to the Identity System Administration interface.|
+ | [ Administering Oracle Identity Governance ] (https://docs.oracle.com/en/middleware/idm/identity-governance/12.2.1.4/omadm/index.html) |  
 | Training and Tutorials    |  False   | 
 | Codecademy Hoodie   |  False   | 
