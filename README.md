@@ -12,9 +12,11 @@ I hope my technical writing portfolio gives you an insight into my tech writing 
 ## Document Types
 
 - Administeration Guide - [Administering Oracle Identity Governance](https://docs.oracle.com/en/middleware/idm/identity-governance/12.2.1.4/omadm/index.html)
+- REST API Docs
 
 
 
-| REST API             | LINK |  |
-| :---------------- | :------: | ----: |
+| REST API Doc          | Link to the Doc |  
+| :---------------- | :------: | 
 | System Property REST API  | [REST API](https://docs.oracle.com/en/middleware/idm/identity-governance/12.2.1.4/oigsp/index.html)|
+| Scheduler | [REST API](https://docs.oracle.com/en/middleware/idm/identity-governance/12.2.1.4/oigcp/index.html)|
