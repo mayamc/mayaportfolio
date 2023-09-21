@@ -15,9 +15,16 @@ I hope my technical writing portfolio gives you an insight into my tech writing 
 - REST API Docs
 
 
-
-| REST API Doc          | Link to the Doc |  
+| REST API Doc Name       | Link to the Doc |  
 | :---------------- | :------: | 
 | System Property REST API  | [REST API](https://docs.oracle.com/en/middleware/idm/identity-governance/12.2.1.4/oigsp/index.html)|
 | Scheduler | [REST API](https://docs.oracle.com/en/middleware/idm/identity-governance/12.2.1.4/oigsc/index.html)|
 | Manage Notification | [REST API](https://docs.oracle.com/en/middleware/idm/identity-governance/12.2.1.4/oigmn/index.html)|
+
+- Tutorials
+
+  
+| Tutorial Name | Link to the Doc |  
+| :---------------- | :------: | 
+| Create a Compute Instance | [Tutorial Link](https://docs.oracle.com/en-us/iaas/developer-tutorials/tutorials/tf-compute/01-summary.htm) |
+| Launching Your First Linux Instance | [Tutorial Link](https://docs.oracle.com/en-us/iaas/Content/GSG/Reference/overviewworkflow.htm#Tutorial__Launching_Your_First_Linux_Instance) |
