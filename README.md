@@ -24,7 +24,9 @@ The following are the details of the projects that I have worked on:
 | Scheduler | [REST API](https://docs.oracle.com/en/middleware/idm/identity-governance/12.2.1.4/oigsc/index.html)|
 | Manage Notification | [REST API](https://docs.oracle.com/en/middleware/idm/identity-governance/12.2.1.4/oigmn/index.html)|
 
-- API Docs: Reporting API created 
+- API Docs: Reporting API created during my tenure at InMobi.
+
+
 | REST API Doc Name     | Link to the Doc |  
 | :---------------- | :------: | 
 | System Property REST API  | [REST API](https://docs.oracle.com/en/middleware/idm/identity-governance/12.2.1.4/oigsp/index.html)|
