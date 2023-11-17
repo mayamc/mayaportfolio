@@ -9,7 +9,7 @@ My area of expertise includes producing quality technical documentation, context
 
 ## Document Types
 
-The following are the details of the projects that I have worked on:
+The following are the types of documentation projects that I have worked on:
 
 -  [Administering Oracle Identity Governance](https://docs.oracle.com/en/middleware/idm/identity-governance/12.2.1.4/omadm/index.html):
   This guide provides details for enterprises to setup delegated administrators, who are users empowered to manage the identities, passwords, password policies, and access of other users.
