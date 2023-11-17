@@ -37,7 +37,7 @@ Oracle by Example (OBE) tutorials provide hands-on, step-by-step instructions on
 | Launching Your First Linux Instance | [Tutorial Link](https://docs.oracle.com/en-us/iaas/Content/GSG/Reference/overviewworkflow.htm#Tutorial__Launching_Your_First_Linux_Instance) |
 
 - [Sample Installation Guide](https://github.com/mayamc/mayaportfolio/blob/main/SampleInstallationGuide.docx): This document describes the procedures and steps necessary to successfully install and configure the Microsoft Office Communicator 2007 client on the client machines.
-- [InMobi SDK Guide](https://support.inmobi.com/monetize/getting-started): This SDK guide teaches SDK users how to start monetizing your apps and websites through InMobi.
+- [InMobi SDK Guide](https://support.inmobi.com/monetize/getting-started): This SDK guide teaches SDK users how to start monetizing the apps and websites through InMobi.
 
 ## Skills
 - Work in deadline-driven Agile software development environments
