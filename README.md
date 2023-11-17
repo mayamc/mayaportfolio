@@ -3,17 +3,19 @@
 
 Thanks for visiting my portfolio!
 
-I am an experienced technical writer, training content creator, team leader, and user experience professional. I am a passionate advocate for users and for the design, development, and delivery of quality technical content.
+I am an experienced technical writer, training content creator, team leader, and user experience professional. I am a passionate advocate for design, development, and delivery of quality technical content.
 
-My area of expertise includes producing quality technical documentation, context sensitive help, training, tutorials, and user assistance resource provide users with the answers that they're looking for, when and where they need it, and with the right amount of detail. I'd love the opportunity to add my commitment, desire for continual improvement, and experience working on complex software to your technical writing team.
-
+My area of expertise includes producing quality technical documentation, context sensitive help, API Guides, training material, tutorials, and user assistance resource that provide users with the exact that they're looking for with the right amount of detail. 
 
 ## Document Types
 
 The following are the details of the projects that I have worked on:
 
 -  [Administering Oracle Identity Governance](https://docs.oracle.com/en/middleware/idm/identity-governance/12.2.1.4/omadm/index.html):
-  This guide provides details for enterprises to setup delegated administrators, who are users empowered to manage the identities, passwords, password policies, and access of other users. 
+  This guide provides details for enterprises to setup delegated administrators, who are users empowered to manage the identities, passwords, password policies, and access of other users.
+
+- [Configuration Guide] (https://docs.oracle.com/en/middleware/idm/identity-governance-connectors/12.2.1.3/cgmst/index.html) 
+   This Guide explains the configuring steps that allows Microsoft Teams connector to integrate with Oracle Identity Governance and the external identity-aware applications.
  
 - REST API Docs: REST API reference documentation for Oracle Identity Governance.
 
@@ -24,7 +26,7 @@ The following are the details of the projects that I have worked on:
 | Scheduler | [REST API](https://docs.oracle.com/en/middleware/idm/identity-governance/12.2.1.4/oigsc/index.html)|
 | Manage Notification | [REST API](https://docs.oracle.com/en/middleware/idm/identity-governance/12.2.1.4/oigmn/index.html)|
 
-- API Docs [ Reporting API](https://support.inmobi.com/monetize/reporting-api): Reporting API created during my tenure at InMobi
+- [ Reporting API](https://support.inmobi.com/monetize/reporting-api): Reporting API created during my tenure at InMobi, which explains the key API features and use cases for automating and downloading InMobi Publisher Reporting API 3.0.
 
 - Tutorials
 Oracle by Example (OBE) tutorials provide hands-on, step-by-step instructions on how to implement various Oracle Identity Management solutions to various business problems.
@@ -41,9 +43,9 @@ Oracle by Example (OBE) tutorials provide hands-on, step-by-step instructions on
 - Work in deadline-driven Agile software development environments
 - Interact with various teams to obtain an in-depth understanding of products and processes
 - Conceptualize, define, schedule, and manage projects through delivery
-- Work in Markdown, HTML, CSS, JSON, XML/DITA, structured authoring environments
+- Work in Markdown, HTML, JSON, XML/DITA, structured authoring environments
 - Version control and collaboration tools; Confluence, JIRA, GitHub/Git, SharePoint, Subversion
-- Open tools: Guthub, Swagger, OpenAPI, Postman, cURL, Atom
+- Open tools: Guthub, Swagger, Postman, cURL, Atom
 - Enterprise tools: Adobe Dreamweaver, Snagit, Photoshop, FrameMaker, Articulate, MS Office, Oxygen
 - Adhere to a style guide, familiar with Microsoft Manual of Style for Technical Publications
 
