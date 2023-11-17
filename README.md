@@ -14,7 +14,7 @@ The following are the details of the projects that I have worked on:
 -  [Administering Oracle Identity Governance](https://docs.oracle.com/en/middleware/idm/identity-governance/12.2.1.4/omadm/index.html):
   This guide provides details for enterprises to setup delegated administrators, who are users empowered to manage the identities, passwords, password policies, and access of other users.
 
-- [Configuration Guide] (https://docs.oracle.com/en/middleware/idm/identity-governance-connectors/12.2.1.3/cgmst/index.html) 
+- [Configuration Guide](https://docs.oracle.com/en/middleware/idm/identity-governance-connectors/12.2.1.3/cgmst/index.html) 
    This Guide explains the configuring steps that allows Microsoft Teams connector to integrate with Oracle Identity Governance and the external identity-aware applications.
  
 - REST API Docs: REST API reference documentation for Oracle Identity Governance.
