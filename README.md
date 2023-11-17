@@ -24,14 +24,7 @@ The following are the details of the projects that I have worked on:
 | Scheduler | [REST API](https://docs.oracle.com/en/middleware/idm/identity-governance/12.2.1.4/oigsc/index.html)|
 | Manage Notification | [REST API](https://docs.oracle.com/en/middleware/idm/identity-governance/12.2.1.4/oigmn/index.html)|
 
-- API Docs: Reporting API created during my tenure at InMobi.
-
-
-| REST API Doc Name     | Link to the Doc |  
-| :---------------- | :------: | 
-| System Property REST API  | [REST API](https://docs.oracle.com/en/middleware/idm/identity-governance/12.2.1.4/oigsp/index.html)|
-| Scheduler | [REST API](https://docs.oracle.com/en/middleware/idm/identity-governance/12.2.1.4/oigsc/index.html)|
-| Manage Notification | [REST API](https://docs.oracle.com/en/middleware/idm/identity-governance/12.2.1.4/oigmn/index.html)|
+- API Docs [ Reporting API](https://support.inmobi.com/monetize/reporting-api): Reporting API created during my tenure at InMobi
 
 - Tutorials
 Oracle by Example (OBE) tutorials provide hands-on, step-by-step instructions on how to implement various Oracle Identity Management solutions to various business problems.
