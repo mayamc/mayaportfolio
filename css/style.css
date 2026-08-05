@@ -280,6 +280,43 @@ h1, h2, h3 { line-height: 1.2; font-weight: 600; margin: 0; }
   background: var(--accent);
 }
 .feature-list strong { color: var(--text); }
+.feature-list-emoji li { padding-left: 0; }
+.feature-list-emoji li::before { display: none; }
+
+.card-subheading {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-muted);
+  margin: 20px 0 10px;
+}
+
+.screenshot-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px;
+  margin: 20px 0;
+}
+.screenshot-gallery figure {
+  margin: 0;
+}
+.screenshot-gallery img {
+  width: 100%;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  display: block;
+}
+.screenshot-gallery figcaption {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  margin-top: 8px;
+}
+
+.card-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
 
 /* ---------- Skills ---------- */
 .skills-grid {
